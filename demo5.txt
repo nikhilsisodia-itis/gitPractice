@@ -1,4 +1,4 @@
-Coding {1}:
+Coding:
 // Code
 // Code
 // Code
